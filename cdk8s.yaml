@@ -1,0 +1,4 @@
+language: java
+app: gradle run
+imports:
+  - k8s

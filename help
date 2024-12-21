@@ -1,0 +1,13 @@
+========================================================================================================
+
+ Your cdk8s Kotlin project is ready!
+
+   cat help      Prints this message  
+   cdk8s synth   Synthesize k8s manifests to dist/
+   cdk8s import  Imports k8s API objects to "src/main/java/imports/"
+   gradle run    Compiles your Kotlin packages
+
+  Deploy:
+   kubectl apply -f dist/
+
+========================================================================================================
